@@ -1,0 +1,239 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid red; */
+}
+
+.pll{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    background-color:#ffffff;
+    z-index: 1;
+}
+
+.car{
+    padding: 8px;
+    border: 1px solid rgb(233,233, 233) ;
+    border-radius: 50px;
+    background-color: rgb(238, 238, 238);
+}
+
+.cco>a{
+    color: #000000;
+    font-weight: bold;
+}
+
+.cco>a:hover{
+    color: rgb(0, 128, 255);
+}
+
+.loca{
+    padding: 15px;
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 4px;
+}
+
+.row>.inp{
+    margin-left: 10px;
+    padding: 0px;
+    padding-left: 0px;
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 4px;
+}
+
+.row>.inp>input{
+    border: 1px solid rgb(203, 203, 203);
+    padding-left: 10px;
+}
+
+.row>.inp>i{
+    padding-top: 18px;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: rgb(2, 37, 13);
+}
+
+@media (max-width=768px) {
+    .inp>i{
+        padding-top:0px;
+    }
+}
+
+.logi{
+    padding-top: 14px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.logi>a{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.logi>a:hover{
+    text-decoration: none;
+}
+
+.ccc{
+    z-index: 1;
+}
+
+.sell{
+    padding-top: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.sell>a{
+    padding:10px;
+    border: 4px solid blue;
+    border: border-box;
+    border-radius: 19px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.eee>a{
+    padding-top: 15px;
+}
+
+.cate>a{
+    color: #000000;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.iim{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.cateim>a{
+    width: 100%;
+    height: 100%;
+}
+
+.cateim>a>img{
+    width: 100px;
+    height: 100px;
+}
+
+.cateim>a{
+    text-decoration: none;
+}
+
+.cateim>a>h6{
+    padding-top: 5px;
+    color: #000000;
+}
+
+.ssr{
+    padding-top: 20px;
+}
+
+.part2{
+    padding-top: 20px;
+}
+
+.trr>div{
+    padding: 0px;
+}
+.mmn{
+    padding: 0px;
+    border: 1px solid #a5a5a5;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.mmn>img{
+    width: 100%;
+    height: 250px;
+    border-radius: 12px;
+}
+
+.er{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.tex{
+    padding-top: 10px;
+}
+
+.op{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.po{
+    color: #c8c8c8;
+    font-size: 15px;
+}
+
+.foo{
+    padding-top: 60px;
+}
+
+.part10{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid green;
+    background-color: #f0f0f0;
+}
+
+.tp>p:hover{
+    color: rgb(1, 138, 102);
+    cursor: pointer;
+}
+
+.ql>p:hover{
+    color: rgb(1, 138, 102);
+    cursor: pointer;
+}
+
+.fs>p:hover{
+    color: rgb(1, 138, 102);
+    cursor: pointer;
+}
+
+.rs>p:hover{
+    color: rgb(1, 138, 102);
+    cursor: pointer;
+}
+
+.nl>i{
+    color: rgb(1, 138, 102);
+    border:1px solid  rgb(1, 138, 102);;
+    padding: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.last{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background: rgb(5, 170, 156);
+}
+
+.last>h6{
+    text-align: right;
+}
